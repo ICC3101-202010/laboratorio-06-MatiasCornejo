@@ -4,7 +4,8 @@ using System.Text;
 
 namespace labMC6
 {
-    class Seccion
+    [Serializable]
+    class Seccion:Division
     {
     }
 }

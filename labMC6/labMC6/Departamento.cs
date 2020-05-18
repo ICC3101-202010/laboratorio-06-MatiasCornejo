@@ -4,7 +4,8 @@ using System.Text;
 
 namespace labMC6
 {
-    class Departamento
+    [Serializable]
+    class Departamento:Division
     {
     }
 }

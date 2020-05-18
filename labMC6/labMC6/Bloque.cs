@@ -4,7 +4,8 @@ using System.Text;
 
 namespace labMC6
 {
-    class Bloque
+    [Serializable]
+    class Bloque:Division
     {
     }
 }
